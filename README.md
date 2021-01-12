@@ -1,4 +1,6 @@
-### Hi there 👋
+#Túlio Amaral
+## Túlio Amaral
+### Túlio Amaral
 
 <!--
 **tulio-amaral/tulio-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
