@@ -1,7 +1,6 @@
-# Túlio Amaral
-## Túlio Amaral
-### Túlio Amaral
+### Hello there 👋
 
+I'm Túlio, Full-Stack developer and pationate about back-end. I'm currently focused on Node.js using Typescript.
 <!--
 **tulio-amaral/tulio-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
