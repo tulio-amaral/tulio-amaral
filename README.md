@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Túlio, Full-Stack developer and pationate about back-end. I'm currently focused on Node.js using Typescript 👨‍💻.
+I'm Túlio, Full-Stack developer and passionated about back-end. I'm currently focused on Node.js using Typescript 👨‍💻.
 
 I am really interested in studying Software Architecture and how to write better maintainable codes. At this moment I'm learning and applying DDD, SOLID and Clean Architecture, but I'm also looking forward to learning about Microservices.
 
